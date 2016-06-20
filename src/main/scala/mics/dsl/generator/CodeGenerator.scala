@@ -21,6 +21,5 @@ object CodeGenerator {
       val codeGenerator = ServiceGenerator(path, service)
       codeGenerator.generate.map(_ => true)
     }
-
   }
 }

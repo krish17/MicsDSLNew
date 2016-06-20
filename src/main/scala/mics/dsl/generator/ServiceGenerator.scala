@@ -4,20 +4,23 @@ import java.io.{File, PrintWriter}
 import java.nio.file.Path
 import mics.dsl.service._
 import play.twirl.api.Html
-import scala.util.{Failure, Try}
+import scala.util.{Success, Failure, Try}
 import scala.sys.process._
 import mics.dsl.service.Data._
 
 case class ServiceGenerator(directory: Path, artifact: Service) extends CodeGenerator[Service] {
   override def generate: Try[String] = artifact.data match {
     case Some(ServiceData(serviceName, serviceDescription, packageName, modules)) =>
-      //createProject(serviceName)
+      createProject(serviceName)
       for {
         module <- modules
         moduleData <- module.data
         moduleCode: Html = twirl.html.controller(packageName, moduleData)
-        saved = writeToFile(s"$directory\\$serviceName\\app", packageName, "controllers", s"${moduleData.name}Controller.scala", moduleCode.toString)
+        saved = writeToFile(s"$directory\\$serviceName\\app", packageName, "controllers", s"${moduleData.name}Controller.scala", moduleCode.body.trim)
       } yield true
+      val routesCode: Html = twirl.html.routes(packageName, modules)
+      writeToFile(s"$directory\\$serviceName", "", "conf", "routes", routesCode.body.trim)
+      Success(s"$serviceName project successfully generated!")
     case _ =>
       Failure(new RuntimeException(s"Service is not defined completely"))
   }

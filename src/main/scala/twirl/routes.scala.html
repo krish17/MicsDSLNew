@@ -1,0 +1,11 @@
+@(packageName: String, modules: Seq[service.Module])
+@import service.Data._
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+@for(module <- modules; moduleData <- module.data.toSeq; action <- moduleData.actions; actionData <- action.data.toSeq) {
+@{actionData.actionType}    /@{moduleData.name.toLowerCase}@{actionData.inputRoute}                  @{packageName}.controllers.@{moduleData.name}Controller.@{actionData.actionName}@{actionData.inputParam}
+}
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
+

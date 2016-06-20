@@ -27,6 +27,10 @@ object Client extends App {
 
     module("Catalog") defines "Books and Magazine catalog management" having actions (
 
+        get("item") to "Get an existing catalog item" takes (
+            input("itemId") as "ItemId" carries "Item id"
+          ) and returns ("Catalog item" as "CatalogItem"),
+
         add("item") to "Add a new catalog item" takes (
             input("item") as "CatalogItem" carries "Catalog item"
           ) and returns ("Catalog item id" as "CatalogItemDetails"),
