@@ -1,4 +1,4 @@
-@(packageDir: String, module: mics.dsl.service.ModuleWithActions)
+@(packageDir: String, module: service.Data.ModuleData)
 package @{packageDir}.controllers
 
 import javax.inject._
@@ -6,10 +6,10 @@ import play.api._
 import play.api.mvc._
 
 /**
- * @{module.moduleDescription}
+ * @{module.description}
  */
 @@Singleton
-class @{module.moduleName}Controller @@Inject() extends Controller {
+class @{module.name}Controller @@Inject() extends Controller {
 
     /**
      * Create an Action to render an HTML page with a welcome message.

@@ -8,15 +8,15 @@ import play.twirl.api.TemplateMagic._
      object controller_Scope0 {
 import mics.dsl._
 
-class controller extends BaseScalaTemplate[play.twirl.api.HtmlFormat.Appendable,Format[play.twirl.api.HtmlFormat.Appendable]](play.twirl.api.HtmlFormat) with play.twirl.api.Template2[String,mics.dsl.service.ModuleWithActions,play.twirl.api.HtmlFormat.Appendable] {
+class controller extends BaseScalaTemplate[play.twirl.api.HtmlFormat.Appendable,Format[play.twirl.api.HtmlFormat.Appendable]](play.twirl.api.HtmlFormat) with play.twirl.api.Template2[String,service.Data.ModuleData,play.twirl.api.HtmlFormat.Appendable] {
 
   /**/
-  def apply/*1.2*/(packageDir: String, module: mics.dsl.service.ModuleWithActions):play.twirl.api.HtmlFormat.Appendable = {
+  def apply/*1.2*/(packageDir: String, module: service.Data.ModuleData):play.twirl.api.HtmlFormat.Appendable = {
     _display_ {
       {
 
 
-Seq[Any](format.raw/*1.66*/("""
+Seq[Any](format.raw/*1.55*/("""
 """),format.raw/*2.1*/("""package """),_display_(/*2.10*/{packageDir}),format.raw/*2.22*/(""".controllers
 
 import javax.inject._
@@ -24,10 +24,10 @@ import play.api._
 import play.api.mvc._
 
 /**
- * """),_display_(/*9.5*/{module.moduleDescription}),format.raw/*9.31*/("""
+ * """),_display_(/*9.5*/{module.description}),format.raw/*9.25*/("""
  """),format.raw/*10.2*/("""*/
 @Singleton
-class """),_display_(/*12.8*/{module.moduleName}),format.raw/*12.27*/("""Controller @Inject() extends Controller """),format.raw/*12.68*/("""{"""),format.raw/*12.69*/("""
+class """),_display_(/*12.8*/{module.name}),format.raw/*12.21*/("""Controller @Inject() extends Controller """),format.raw/*12.62*/("""{"""),format.raw/*12.63*/("""
 
     """),format.raw/*14.5*/("""/**
      * Create an Action to render an HTML page with a welcome message.
@@ -45,9 +45,9 @@ class """),_display_(/*12.8*/{module.moduleName}),format.raw/*12.27*/("""Control
     }
   }
 
-  def render(packageDir:String,module:mics.dsl.service.ModuleWithActions): play.twirl.api.HtmlFormat.Appendable = apply(packageDir,module)
+  def render(packageDir:String,module:service.Data.ModuleData): play.twirl.api.HtmlFormat.Appendable = apply(packageDir,module)
 
-  def f:((String,mics.dsl.service.ModuleWithActions) => play.twirl.api.HtmlFormat.Appendable) = (packageDir,module) => apply(packageDir,module)
+  def f:((String,service.Data.ModuleData) => play.twirl.api.HtmlFormat.Appendable) = (packageDir,module) => apply(packageDir,module)
 
   def ref: this.type = this
 
@@ -60,10 +60,10 @@ class """),_display_(/*12.8*/{module.moduleName}),format.raw/*12.27*/("""Control
 object controller extends controller_Scope0.controller
               /*
                   -- GENERATED --
-                  DATE: Mon May 30 17:41:46 EDT 2016
+                  DATE: Mon Jun 20 12:16:39 EDT 2016
                   SOURCE: C:/Users/Krishna/MicsDSL/src/main/scala/twirl/controller.scala.html
-                  HASH: b8bb1ebe88e0d4bf202690a5ca428472bff8ec75
-                  MATRIX: 427->1|586->65|614->67|649->76|681->88|798->180|844->206|874->209|923->233|963->252|1031->293|1060->294|1095->302|1399->578|1428->579|1463->587|1550->647|1578->648|1609->652|1637->653
+                  HASH: 381f3dbe288fc35b369578f50cb094a353e4a08a
+                  MATRIX: 416->1|564->54|592->56|627->65|659->77|776->169|816->189|846->192|895->216|929->229|997->270|1026->271|1061->279|1365->555|1394->556|1429->564|1516->624|1544->625|1575->629|1603->630
                   LINES: 14->1|19->1|20->2|20->2|20->2|27->9|27->9|28->10|30->12|30->12|30->12|30->12|32->14|38->20|38->20|39->21|40->22|40->22|42->24|42->24
                   -- GENERATED --
               */

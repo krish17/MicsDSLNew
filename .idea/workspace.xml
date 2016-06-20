@@ -2,13 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="968801c3-3e84-4159-8adf-a8f56fe5011b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$886df4a054dd702243cd$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$886df4a054dd702243cd$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$886df4a054dd702243cd.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$886df4a054dd702243cd.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$1b3f20c72322d27e6038$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$1b3f20c72322d27e6038$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$1b3f20c72322d27e6038$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$1b3f20c72322d27e6038.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$1b3f20c72322d27e6038.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$aadc9a4ad4a3d30defe1$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$aadc9a4ad4a3d30defe1$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$aadc9a4ad4a3d30defe1.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$aadc9a4ad4a3d30defe1.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/mics/dsl/generator/ServiceGenerator$$anonfun$createProject$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/mics/dsl/generator/ServiceGenerator$$anonfun$createProject$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/mics/dsl/generator/ServiceGenerator$.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/mics/dsl/generator/ServiceGenerator$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/mics/dsl/generator/ServiceGenerator.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/mics/dsl/generator/ServiceGenerator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/twirl/html/controller.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/twirl/html/controller.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/twirl/html/controller_Scope0$controller$$anonfun$f$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/twirl/html/controller_Scope0$controller$$anonfun$f$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/twirl/html/controller_Scope0$controller.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/twirl/html/controller_Scope0$controller.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/twirl/html/controller_Scope0.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/twirl/html/controller_Scope0.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/mics/dsl/generator/ServiceGenerator.scala" afterPath="$PROJECT_DIR$/src/main/scala/mics/dsl/generator/ServiceGenerator.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/mics/dsl/service/Service.scala" afterPath="$PROJECT_DIR$/src/main/scala/mics/dsl/service/Service.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/twirl/controller.scala.html" afterPath="$PROJECT_DIR$/src/main/scala/twirl/controller.scala.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/micsdsl/micsdsl_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/micsdsl/micsdsl_2.11/1.0/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/micsdsl/micsdsl_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/micsdsl/micsdsl_2.11/1.0/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/micsdsl-micsdsl_2.11-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/twirl/controller.scala.html" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/twirl/controller.scala.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/twirl/main/twirl/html/controller.template.scala" afterPath="$PROJECT_DIR$/target/scala-2.11/twirl/main/twirl/html/controller.template.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" />
     </list>
     <ignored path="MicsDSL.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,51 +84,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="plugins.sbt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/build.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="20" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.sbt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="controller.scala.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/twirl/controller.scala.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.1923075">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="43" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="Output.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/mics/dsl/service/Output.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.06115108">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -105,11 +114,43 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Action.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/mics/dsl/service/Action.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="102" selection-start-line="16" selection-start-column="102" selection-end-line="16" selection-end-column="102" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ServiceGenerator.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/mics/dsl/generator/ServiceGenerator.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+              <folding>
+                <element signature="e#28#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Input.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/mics/dsl/service/Input.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -119,7 +160,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/mics/dsl/client/Client.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -141,8 +182,12 @@
         <option value="$PROJECT_DIR$/project/plugins.sbt" />
         <option value="$PROJECT_DIR$/src/main/twirl/controller.scala.txt" />
         <option value="$PROJECT_DIR$/build.sbt" />
-        <option value="$PROJECT_DIR$/src/main/scala/mics/dsl/service/Module.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/twirl/controller.scala.txt" />
+        <option value="$PROJECT_DIR$/src/main/scala/mics/dsl/service/Module.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mics/dsl/service/Action.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mics/dsl/generator/ServiceData.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mics/dsl/service/Service.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mics/dsl/service/Data.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/twirl/controller.scala.html" />
         <option value="$PROJECT_DIR$/src/main/scala/mics/dsl/generator/ServiceGenerator.scala" />
         <option value="$PROJECT_DIR$/.gitignore" />
@@ -210,38 +255,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MicsDSL" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MicsDSL" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala-2.11" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MicsDSL" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MicsDSL" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -636,11 +649,14 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
@@ -648,32 +664,24 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3797054" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.gitignore" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/src/main/scala/mics/dsl/generator/ServiceGenerator.scala</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -726,7 +734,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding />
+          <folding>
+            <element signature="e#28#62#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -738,10 +748,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/mics/dsl/client/Client.scala">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -756,16 +766,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.100294985">
           <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -778,26 +780,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/mics/dsl/generator/ServiceGenerator.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mics/dsl/service/Service.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6079665">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mics/dsl/service/Action.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <caret line="16" column="102" selection-start-line="16" selection-start-column="102" selection-end-line="16" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mics/dsl/service/Output.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mics/dsl/generator/CodeGenerator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14255765">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mics/dsl/service/Data.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mics/dsl/service/Input.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/twirl/controller.scala.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1923075">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="43" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mics/dsl/client/Client.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mics/dsl/generator/ServiceGenerator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <element signature="e#28#62#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06115108">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
           <folding />
         </state>
       </provider>

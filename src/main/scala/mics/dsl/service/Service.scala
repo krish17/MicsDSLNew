@@ -22,7 +22,7 @@ case class PackagedService(serviceName: String, serviceDescription: String, pack
 
 case class ServiceWithModules(serviceName: String, serviceDescription: String, packageName: String, modules: Seq[Module]) extends Service
 
-object Service {
+  object Service {
   def service(serviceName: String): NamedService = NamedService(serviceName)
 
   def modules(moduleList: Module*)(serviceName: String, serviceDescription: String, packageName: String): ServiceWithModules =
