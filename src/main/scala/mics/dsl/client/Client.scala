@@ -1,5 +1,6 @@
 package mics.dsl.client
 
+import mics.dsl.generator.CodeGenerator
 import mics.dsl.service.Service._
 import mics.dsl.service.Module._
 import mics.dsl.service.Action._
@@ -41,5 +42,5 @@ object Client extends App {
       )
   )
 
-  myService.generateCode("C:\\play\\activator\\projects")
+  CodeGenerator(myService, "C:\\play\\activator\\projects").generateCode
 }
